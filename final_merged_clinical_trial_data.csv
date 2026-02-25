@@ -1,0 +1,345 @@
+patient_id,name,assigned_sex,state,age,weight,height,bmi,hba1c_start,hba1c_end,hba1c_change,dosage_type,dosage_start,dosage_end,adverse_reaction
+1,Zoe Wellish,female,CA,49,121.7,66,19.6,7.71,7.3,0.41,novodra,33,33,no reaction
+2,Pamela Hill,female,IL,58,118.8,66,19.2,9.53,9.1,0.43,novodra,27,29,no reaction
+4,Liêm Phan,male,NJ,74,220.9,70,31.7,7.58,7.1,0.48,novodra,43,48,no reaction
+6,Rafael Costa,male,FL,94,183.9,70,26.4,7.73,7.34,0.390000000000001,auralin,50,60,no reaction
+7,Mary Adams,female,NV,56,146.3,65,24.3,7.65,7.26,0.390000000000001,novodra,32,33,no reaction
+8,Xiuxiu Chang,female,CA,67,158,60,30.9,7.64,7.23,0.409999999999999,auralin,32,41,hypoglycemia
+9,David Gustafsson,male,MO,89,163.9,66,26.5,7.72,7.28,0.44,novodra,33,34,no reaction
+11,Sandy Gunnarsson,female,MI,51,199.3,62,36.4,7.97,7.45,0.52,novodra,41,44,no reaction
+12,Abdul-Nur Isa,male,TN,72,238.7,73,31.5,7.98,7.53,0.45,novodra,54,50,hypoglycemia
+14,Anenechi Chidi,female,AL,65,228.4,67,35.8,7.64,7.31,0.33,auralin,52,61,hypoglycemia
+15,Asia Woźniak,female,OK,28,112,65,18.6,7.76,7.37,0.39,auralin,30,36,no reaction
+18,Roxanne Andreyeva,female,GA,103,129.1,60,25.2,9.54,9.14,0.399999999999999,auralin,29,38,no reaction
+20,Zak Kelly,male,CA,37,208.8,70,30,7.66,7.26,0.4,novodra,38,38,no reaction
+21,Sofia Karlsen,female,MA,91,153.1,66,24.7,7.62,7.15,0.47,novodra,35,29,no reaction
+22,Samúel Guðbrandsson,male,NJ,42,223.7,69,33,8,7.64,0.36,auralin,53,56,no reaction
+25,Jakob Jakobsen,male,NY,40,155.8,67,24.4,7.96,7.51,0.45,novodra,28,26,hypoglycemia
+26,Gregor Bole,male,NM,103,180.8,67,28.3,7.61,7.16,0.45,novodra,47,45,no reaction
+27,Ella Lund,female,IL,92,144.8,61,27.4,7.57,7.21,0.36,auralin,38,47,no reaction
+28,Joseph Tucker,male,LA,66,175.8,72,23.8,7.67,7.3,0.37,auralin,48,56,no reaction
+32,Tomáš Navrátil,male,TN,90,133.3,70,19.1,7.84,7.41,0.43,auralin,24,36,no reaction
+34,Habte Kifle,male,IL,80,153.8,72,20.9,7.59,7.13,0.46,auralin,42,48,no reaction
+35,Mariana Souza,female,ME,78,152.9,63,27.1,7.86,7.51,0.350000000000001,auralin,36,42,no reaction
+36,Kamila Pecinová,female,NY,40,198.9,62,36.4,7.77,7.39,0.38,novodra,54,51,no reaction
+37,Naja Enoksen,female,WI,94,156.4,66,25.2,7.98,7.59,0.390000000000001,auralin,43,50,no reaction
+38,Albinca Komavec,female,SD,39,189.9,66,30.6,7.89,7.46,0.43,novodra,41,39,hypoglycemia
+39,Genet Fesahaye,female,MA,72,111.8,67,17.5,7.73,7.36,0.37,auralin,25,35,no reaction
+42,Fakhri Fakhoury,male,MN,46,143,66,23.1,7.83,7.39,0.44,auralin,39,50,no reaction
+43,Mizuki Iwata,female,FL,98,199.1,61,37.6,7.7,7.23,0.47,novodra,45,46,no reaction
+45,Blanka Jurković,female,ME,103,129.8,66,20.9,7.77,7.33,0.44,auralin,31,43,no reaction
+46,Liisa Seppälä,female,TN,96,157.7,63,27.9,7.87,7.51,0.36,auralin,36,47,no reaction
+47,Javier Moquin,male,PA,84,163.9,72,22.2,8,7.59,0.41,novodra,30,32,no reaction
+49,Annika Vaara,female,IL,30,109.1,67,17.1,7.73,7.34,0.390000000000001,novodra,20,21,no reaction
+50,Vivien Zsinkó,female,OH,52,113.3,64,19.4,8.35,7.92,0.43,auralin,30,38,no reaction
+52,Noe Aranda,female,IL,87,107.1,63,19,7.51,7.17,0.34,auralin,26,34,hypoglycemia
+53,Brianna Lansell,female,IA,75,202,62,36.9,9.48,9.06,0.42,auralin,39,47,no reaction
+54,Kwemtochukwu Ogochukwu,male,MA,49,150.5,72,20.4,7.86,7.53,0.33,novodra,34,37,no reaction
+55,Louise Johnson,female,MA,95,141,62,25.8,7.63,7.32,0.31,auralin,32,42,hypoglycemia
+57,Alissa Montez,female,GA,75,133.8,61,25.3,7.78,7.46,0.32,novodra,33,29,no reaction
+58,Siebrigje Koldenhof,female,CA,90,134,60,26.2,7.9,7.59,0.310000000000001,auralin,30,38,no reaction
+59,Yasmin Araujo,female,PA,44,196,67,30.7,7.82,7.36,0.46,novodra,51,54,no reaction
+60,Avdei Tikhonov,male,NC,97,150,72,20.3,7.77,7.27,0.5,auralin,27,36,no reaction
+61,Barbora Vesecká,female,CA,87,159.1,67,24.9,7.9,7.46,0.44,auralin,29,45,no reaction
+63,Firenze Fodor,female,MA,82,131.1,60,25.6,7.89,7.55,0.34,novodra,30,35,no reaction
+64,Yukitaka Takenaka,male,CA,81,193.2,72,26.2,7.68,7.25,0.43,novodra,39,36,no reaction
+65,Jaakko Eskelinen,male,NY,55,163.7,68,24.9,7.73,7.42,0.310000000000001,auralin,39,45,no reaction
+66,Nicolas Ferreira,male,IN,49,211.9,69,31.3,7.99,7.72,0.27,auralin,43,51,no reaction
+68,Nebechi Ekechukwu,male,MA,81,154.9,64,26.6,7.78,7.39,0.390000000000001,novodra,37,39,no reaction
+70,Joseph Day,male,IL,40,150.6,68,22.9,7.7,7.19,0.51,auralin,29,36,hypoglycemia
+71,Alexander Mathiesen,male,OH,70,195.6,68,29.7,7.96,7.55,0.41,auralin,47,58,no reaction
+73,Søren Frederiksen,male,LA,95,214.5,65,35.7,7.71,7.31,0.4,novodra,56,58,no reaction
+74,Žarka Rap,female,MA,30,139.3,68,21.2,7.54,7.15,0.39,auralin,35,48,no reaction
+75,Hanka Gegič,female,OK,100,103.2,61,19.5,7.67,7.29,0.38,novodra,19,27,no reaction
+77,Maryam Dratchev,female,MN,43,190.1,63,33.7,9.91,9.46,0.449999999999999,auralin,37,45,no reaction
+78,Rut Halldórsdóttir,female,KY,66,162.6,66,26.2,9.01,8.63,0.379999999999999,auralin,31,40,no reaction
+81,Eufemio Rosario,male,NY,103,183.7,71,25.6,7.54,7.26,0.28,novodra,37,40,no reaction
+82,André Nordin,male,OK,85,209.4,69,30.9,7.6,7.27,0.33,auralin,40,47,no reaction
+84,Chen Yao,male,OH,50,214.7,76,26.1,7.9,7.51,0.390000000000001,novodra,56,57,no reaction
+85,Nương Vũ,female,NY,45,138.2,63,24.5,7.68,7.29,0.39,auralin,31,38,no reaction
+86,Burrell Mathieu,male,FL,89,203.5,71,28.4,8.71,8.39,0.32,auralin,46,58,no reaction
+89,Marius Hansen,male,GA,77,227.7,76,27.7,7.97,7.53,0.44,auralin,41,47,no reaction
+90,Kwasi Mensa,male,AZ,83,145.4,69,21.5,8.29,7.89,0.399999999999999,novodra,40,36,no reaction
+92,Caroline Shuler,female,TX,77,218.7,66,35.3,7.63,7.27,0.36,novodra,50,54,no reaction
+94,Elliot Richardson,male,FL,53,168.1,71,23.4,7.56,7.09,0.47,novodra,40,45,hypoglycemia
+95,Gina Cain,female,FL,90,144.1,60,28.1,7.88,7.4,0.48,novodra,36,36,no reaction
+99,Jan Baum,male,AK,58,194.3,74,24.9,7.57,7.19,0.38,auralin,53,57,no reaction
+100,Bernd Schneider,male,NY,32,212.5,71,29.6,7.74,7.44,0.3,auralin,48,56,no reaction
+101,Isac Berg,male,ND,30,137.9,66,22.3,9.68,9.29,0.390000000000001,auralin,31,41,no reaction
+102,Oles Zhdanov,male,MO,80,226.2,72,30.7,7.52,7.11,0.409999999999999,auralin,54,67,no reaction
+103,Najla Touma,female,AL,77,165,61,31.2,7.66,7.31,0.350000000000001,novodra,39,44,no reaction
+105,Yasmin Silva,female,AZ,98,200.6,62,36.7,8.88,8.46,0.42,auralin,36,44,no reaction
+106,Nate Bowden,male,NC,71,222,71,31,9.81,9.3,0.51,novodra,48,47,no reaction
+107,Inunnguaq Heilmann,male,IN,49,219.9,67,34.4,7.85,7.45,0.399999999999999,auralin,57,67,no reaction
+108,Rocco Christie,male,MD,39,167,70,24,7.96,7.62,0.34,novodra,42,40,no reaction
+109,Marina Glockner,female,KS,91,191.4,63,33.9,7.88,7.55,0.33,auralin,35,45,no reaction
+110,Stephen Mayberry,male,MS,91,166.1,72,22.5,7.82,7.47,0.350000000000001,novodra,40,39,no reaction
+112,Nicole Zimmerman,female,CA,42,225.9,74,29,8.98,8.57,0.41,novodra,59,56,no reaction
+114,Svanhvít Guðjónsdóttir,female,TX,94,204.2,63,36.2,7.57,7.11,0.46,auralin,37,44,no reaction
+115,Yunadi Barsukov,male,NY,32,176.2,68,26.8,9.47,9.05,0.42,auralin,48,58,no reaction
+119,Adib Ghanem,male,LA,58,254.5,72,34.5,7.59,7.12,0.47,novodra,46,49,no reaction
+121,Nicoline Østergaard,female,CA,99,124.5,63,22.1,7.84,7.57,0.27,auralin,24,32,no reaction
+122,Frydryk Adamski,male,NY,84,230.8,76,28.1,7.75,7.27,0.48,auralin,63,74,no reaction
+123,Bội Tạ,male,MI,96,211,69,31.2,7.73,7.32,0.41,novodra,41,40,no reaction
+126,Seweryna Czerwinska,female,OK,43,203.5,63,36,7.66,7.3,0.36,auralin,39,46,no reaction
+128,Lena Baer,female,WA,48,170.7,61,32.2,7.7,7.4,0.3,novodra,41,38,hypoglycemia
+130,Rebecca Jephcott,female,NY,59,203.3,65,33.8,7.96,7.57,0.39,auralin,53,63,no reaction
+132,Sandra Taylor,female,WV,65,206.1,64,35.4,7.84,7.49,0.35,auralin,51,58,no reaction
+133,Tekla Walczak,female,PA,89,159.9,59,32.3,7.61,7.29,0.32,auralin,29,39,no reaction
+134,Elisabeth Dimmen,female,SC,40,199.5,65,33.2,7.6,7.28,0.319999999999999,novodra,41,36,no reaction
+135,Jesse Luoma,male,NY,103,154.9,66,25,7.72,7.35,0.37,novodra,39,37,no reaction
+138,Emma Barlow,female,FL,73,175.6,60,34.3,7.85,7.39,0.46,auralin,48,57,no reaction
+139,Jose Combs,male,VA,50,171.2,74,22,7.89,7.42,0.47,novodra,39,36,no reaction
+140,Novalie Berg,female,OH,52,156.9,61,29.6,7.85,7.49,0.359999999999999,novodra,32,31,no reaction
+141,John Teichelmann,male,IL,67,214.1,72,29,7.9,7.58,0.32,novodra,49,49,no reaction
+143,Finley Chandler,male,NY,89,150.9,70,21.6,7.65,7.26,0.390000000000001,auralin,31,45,headache
+144,Amanda Ribeiro,female,WA,55,131.1,60,25.6,7.85,7.47,0.38,auralin,36,44,no reaction
+145,Mile Stanić,male,IN,64,244.9,71,34.2,7.66,7.24,0.42,novodra,47,48,no reaction
+146,Sauli Koivuniemi,male,PA,51,170.9,66,27.6,7.67,7.37,0.3,auralin,43,47,no reaction
+147,Haylom Nebay,male,IN,62,185.9,70,26.7,7.62,7.22,0.4,novodra,42,44,no reaction
+151,Felicijan Bubanj,male,FL,68,226.6,71,31.6,7.85,7.5,0.35,auralin,62,75,no reaction
+152,Satsita Batukayev,female,CA,73,219.6,66,35.4,7.63,7.25,0.38,novodra,42,42,no reaction
+153,Christopher Woodward,male,NY,41,212.2,66,34.2,7.51,7.06,0.45,novodra,55,51,nausea
+155,Maya Isaksson,female,WI,66,137.7,67,21.6,7.66,7.17,0.49,auralin,33,41,no reaction
+158,Ellen Luman,female,WI,75,184.6,60,36,9.27,8.77,0.5,novodra,40,39,no reaction
+159,Chibuzo Okoli,male,OK,42,142.8,73,18.8,7.64,7.29,0.35,auralin,28,33,no reaction
+160,Coralie Allaire,female,NC,101,149.4,66,24.1,7.63,7.3,0.33,auralin,39,46,no reaction
+161,Flaviano Endrizzi,male,AZ,97,195.1,75,24.4,7.93,7.56,0.37,novodra,46,43,no reaction
+164,Hawra' Tuma,female,SC,33,134.2,69,19.8,7.93,7.56,0.37,auralin,26,35,no reaction
+165,Hường Lâm,female,KS,66,193.6,63,34.3,7.66,7.29,0.37,auralin,40,49,no reaction
+167,Peter Pospíšil,male,TX,37,225.3,70,32.3,7.76,7.34,0.42,auralin,51,60,no reaction
+168,Melisa Mata,female,MA,84,209.7,65,34.9,8.56,8.27,0.290000000000001,novodra,57,57,no reaction
+169,Galit Casárez,female,CA,69,118.8,67,18.6,7.91,7.56,0.350000000000001,auralin,27,37,no reaction
+170,Markus Solberg,male,DE,72,140.6,70,20.2,7.95,7.57,0.38,novodra,35,30,no reaction
+173,Alvin Jackson,male,IA,80,177.8,71,24.8,7.62,7.23,0.39,auralin,38,43,no reaction
+174,Marija Grubišić,female,MI,40,155.1,69,22.9,7.53,7.15,0.38,auralin,37,43,no reaction
+176,Katrine Lynge,female,IL,91,163.2,60,31.9,7.6,7.13,0.47,novodra,43,42,no reaction
+178,Monika Lončar,female,CA,98,203.7,63,36.1,9.13,8.72,0.41,novodra,49,46,hypoglycemia
+179,Else Andersen,female,IL,50,197.1,65,32.8,7.98,7.6,0.380000000000001,novodra,36,38,no reaction
+181,Triana. Terrazas,female,LA,58,176.2,66,28.4,7.71,7.34,0.37,auralin,34,42,no reaction
+182,Yumena Nakayama,female,CO,96,130.2,59,26.3,7.76,7.35,0.41,novodra,34,32,no reaction
+183,Kaodilinakachukwu Nnonso,male,NJ,62,230.3,69,34,7.76,7.4,0.359999999999999,auralin,63,68,no reaction
+184,Suhaim Rahal,male,CA,82,207.7,71,29,7.94,7.5,0.44,novodra,49,47,no reaction
+185,Ásta Grímsdóttir,female,FL,26,128.9,65,21.4,7.62,7.16,0.46,novodra,29,30,no reaction
+187,Jane Citizen,female,RI,51,143,65,23.8,7.98,7.6,0.380000000000001,novodra,37,38,no reaction
+188,Władysław Wieczorek,male,IL,32,133.1,67,20.8,7.92,7.47,0.45,auralin,24,37,no reaction
+189,Søren Sørensen,male,NY,83,157.1,67,24.6,7.93,7.59,0.34,novodra,41,39,no reaction
+190,Kisanet Selassie,female,CA,69,177.1,62,32.4,9.64,9.27,0.370000000000001,auralin,48,59,no reaction
+191,Regolo Nucci,male,PA,90,213,67,33.4,7.53,7.02,0.510000000000001,auralin,51,59,no reaction
+194,Borna Šlezinger,male,CT,38,203.9,69,30.1,7.55,7.18,0.37,novodra,42,41,no reaction
+195,Urso Aranda,male,NJ,26,163.7,70,23.5,7.6,7.16,0.44,auralin,30,38,no reaction
+196,Lamara Dratchev,female,LA,71,181.3,67,28.4,7.75,7.4,0.35,auralin,49,58,no reaction
+197,Albina Zetticci,female,TX,42,171.6,63,30.4,7.93,7.73,0.199999999999999,auralin,45,51,no reaction
+198,Thể Lương,male,MI,58,223.1,70,32,7.64,7.22,0.42,novodra,61,64,no reaction
+199,Eufrosina Schiavone,female,KY,99,108.5,62,19.8,9,8.56,0.44,novodra,23,23,no reaction
+200,Zdeněk Synek,male,AL,75,168.3,70,24.1,7.67,7.32,0.35,novodra,31,31,no reaction
+201,Kifle Mustafa,male,NJ,60,186.1,69,27.5,7.8,7.41,0.39,auralin,42,50,no reaction
+204,Mùi Lương,female,MO,70,192.7,60,37.6,7.74,7.32,0.42,novodra,52,50,no reaction
+205,Leixandre Alanis,male,OK,87,222.6,69,32.9,7.74,7.32,0.42,auralin,61,67,no reaction
+207,Leah Wong,female,TX,91,129.8,62,23.7,7.79,7.42,0.37,novodra,28,31,no reaction
+208,Beatrycze Woźniak,female,MI,80,119.2,61,22.5,7.54,7.17,0.37,novodra,26,27,no reaction
+209,Gabriele Saenger,female,TX,52,121.2,68,18.4,8.35,7.97,0.38,auralin,22,30,hypoglycemia
+211,Camilla Zaitseva,female,OH,87,107.7,63,19.1,7.53,7.13,0.4,auralin,28,37,no reaction
+212,Martha Afanasyeva,female,MN,28,151.2,73,19.9,7.81,7.39,0.42,novodra,34,41,no reaction
+213,Jens Poulsen,male,NC,62,168.1,71,23.4,7.55,7.16,0.39,novodra,36,32,no reaction
+215,Gabriela Michalčíková,female,VT,61,126.9,65,21.1,8.37,7.97,0.399999999999999,auralin,26,36,no reaction
+217,Gabrielle Bidwill,female,NY,62,170.1,67,26.6,7.76,7.37,0.39,novodra,44,49,no reaction
+218,Saidmohmad Rushisvili,male,GA,66,216.5,67,33.9,7.9,7.48,0.42,novodra,49,46,no reaction
+219,Sabr Amari,female,TN,89,122.2,64,21,7.94,7.57,0.37,novodra,32,27,no reaction
+220,Mỹ Quynh,male,no data,47,237.8,69,35.1,7.61,7.16,0.45,auralin,57,64,no reaction
+221,Mijael Guerra,male,CA,82,183.5,65,30.5,7.85,7.46,0.39,auralin,37,47,no reaction
+222,Csaba Sági,male,PA,83,181.3,70,26,7.88,7.48,0.399999999999999,novodra,35,29,no reaction
+223,Malina Balagić,female,KY,64,224.8,68,34.2,7.65,7.3,0.350000000000001,novodra,48,50,no reaction
+225,Veronika Jindrová,female,VT,45,171.4,62,31.3,7.63,7.2,0.43,auralin,41,48,no reaction
+227,Kári Hervinsson,male,NY,62,189.4,72,25.7,8.09,7.66,0.43,auralin,37,43,no reaction
+228,Laura Ehrlichmann,female,NE,84,187.9,60,36.7,7.95,7.46,0.49,novodra,43,40,no reaction
+229,Cintia Csorba,female,CA,34,186.6,62,34.1,8.49,8,0.49,auralin,47,50,no reaction
+232,Stefanie Herman,female,NC,47,217.8,67,34.1,7.72,7.3,0.42,auralin,44,55,no reaction
+234,Angela Lavrentyev,female,LA,30,155.3,61,29.3,7.61,7.14,0.470000000000001,novodra,28,24,no reaction
+235,Martina Tománková,female,no data,89,199.5,65,33.2,7.83,7.36,0.47,novodra,50,57,no reaction
+236,Justyna Kowalczyk,female,KY,44,112.2,61,21.2,9.84,9.44,0.4,auralin,24,34,no reaction
+237,Fatimah Kinfe,female,CO,45,199.8,62,36.5,7.88,7.56,0.32,novodra,43,42,no reaction
+239,Aksel Vestergaard,male,PA,37,187.2,78,21.6,9.62,9.29,0.33,novodra,42,38,no reaction
+240,Khalid Johnsrud,male,MS,96,214.5,69,31.7,8.35,7.94,0.409999999999999,novodra,54,54,no reaction
+242,Skye Gormanston,female,TN,92,139.7,60,27.3,7.97,7.62,0.35,auralin,33,36,no reaction
+244,Mustafa Adonay,male,WI,104,211.9,67,33.2,7.79,7.34,0.45,auralin,58,69,no reaction
+247,Meya Sjöberg,female,CA,57,232.1,66,37.5,7.77,7.42,0.35,novodra,42,42,no reaction
+249,Cecilie Nilsen,female,NE,76,181.3,64,31.1,9.63,9.21,0.42,novodra,49,50,hypoglycemia
+251,Mee Chung,female,MD,93,206.1,64,35.4,7.56,7.2,0.359999999999999,auralin,42,56,no reaction
+254,Krisztina Magyar,female,FL,75,117,64,20.1,7.52,7.01,0.51,novodra,32,27,hypoglycemia
+255,Kang Mai,male,PA,39,200.4,70,28.8,7.78,7.45,0.33,novodra,39,36,injection site discomfort
+256,Mette Sandgreen,female,WI,87,187.1,60,36.5,7.56,7.08,0.48,auralin,36,46,no reaction
+257,Veronica Bogolyubova,female,PA,44,128.9,67,20.2,7.69,7.31,0.380000000000001,auralin,25,35,no reaction
+258,Jin Kung,male,no data,30,231.7,69,34.2,7.8,7.5,0.3,auralin,55,60,no reaction
+259,Abel Yonatan,male,CA,73,137.9,66,22.3,7.88,7.5,0.38,novodra,38,39,cough
+260,Sara Miles,female,FL,43,166.5,61,31.5,7.53,7.12,0.41,auralin,30,35,no reaction
+262,Jeremy Montagu,male,MA,43,192.7,74,24.7,7.68,7.36,0.319999999999999,novodra,52,52,no reaction
+263,Rebecca Priest,female,TX,37,194,68,29.5,7.87,7.57,0.3,auralin,40,42,no reaction
+266,Þórunn Tryggvadóttir,female,MI,47,120,69,17.7,7.98,7.51,0.470000000000001,novodra,30,32,no reaction
+267,Johanna Dreher,female,KY,77,187,61,35.3,7.77,7.34,0.43,auralin,51,59,no reaction
+268,Bernarda Cindrić,female,KS,40,145.6,61,27.5,7.89,7.55,0.34,auralin,40,49,no reaction
+270,Flavia Fiorentino,female,no data,88,175.2,61,33.1,7.95,7.6,0.350000000000001,auralin,46,57,cough
+271,Jowita Wiśniewska,female,IL,91,108.1,61,20.4,7.5,7.08,0.42,novodra,22,23,no reaction
+272,Russom Amanuel,male,TX,30,142.3,70,20.4,7.86,7.4,0.46,novodra,39,36,no reaction
+273,Klementyna Sokołowska,female,OH,71,168.7,60,32.9,7.98,7.53,0.45,novodra,42,41,no reaction
+275,Nora Nyborg,female,OH,68,202.6,68,30.8,7.83,7.48,0.35,auralin,55,59,no reaction
+276,Eddie Archer,male,IL,43,158.6,69,23.4,7.89,7.55,0.34,auralin,31,38,no reaction
+277,Alex Crawford,male,ID,101,223.1,70,32,7.69,7.3,0.390000000000001,auralin,51,62,hypoglycemia
+280,Hanna-Mari Filatov,female,WV,59,200.8,62,36.7,7.71,7.3,0.41,auralin,55,61,no reaction
+281,David Beauvais,male,TX,94,128.5,67,20.1,7.87,7.47,0.4,novodra,26,23,no reaction
+282,Kristján Ingason,male,AL,39,214.1,69,31.6,7.92,7.57,0.35,auralin,44,55,no reaction
+285,Nilton Quintanilla,male,MA,46,186.3,75,23.3,7.86,7.48,0.38,auralin,42,49,no reaction
+287,Lewis Webb,male,no data,46,155.3,68,23.6,7.85,7.52,0.33,auralin,39,44,no reaction
+288,Kari Laatikainen,male,CA,49,149.6,72,20.3,7.5,7.11,0.39,auralin,39,43,no reaction
+289,Fareeq Kalb,male,CA,40,194.5,70,27.9,7.97,7.59,0.38,novodra,51,54,no reaction
+290,Ursula Freud,female,LA,82,170.1,64,29.2,7.75,7.46,0.29,auralin,42,54,no reaction
+291,Una Traustadóttir,female,MA,96,152.3,59,30.8,8,7.5,0.5,novodra,35,34,no reaction
+292,Enco Žibrik,male,DE,43,203.9,74,26.2,7.78,7.34,0.44,auralin,55,68,no reaction
+293,Fraser Hunter,male,IL,96,143,64,24.5,7.7,7.42,0.28,novodra,36,32,no reaction
+294,Jeramy Hopkins,male,CA,30,179.1,71,25,8.02,7.67,0.35,auralin,37,46,no reaction
+295,Annie Allen,female,MA,99,159.7,60,31.2,9.95,9.58,0.369999999999999,auralin,36,42,no reaction
+296,Albino Schiavone,male,CA,97,180,67,28.2,7.56,7.15,0.409999999999999,auralin,35,43,no reaction
+297,Chỉ Lâm,female,no data,35,181.1,63,32.1,7.68,7.24,0.44,auralin,45,48,no reaction
+300,Linda Lundy,female,ID,57,192.5,69,28.4,7.97,7.52,0.45,novodra,48,53,no reaction
+301,Benigna Ferrari,female,GA,66,181.5,61,34.3,7.78,7.36,0.42,auralin,41,52,no reaction
+302,Onyekachukwu Obinna,female,NY,29,154.7,65,25.7,7.58,7.12,0.46,auralin,37,46,no reaction
+303,Niels Lange,male,MS,94,201.5,70,28.9,7.58,7.21,0.37,novodra,43,38,no reaction
+304,Joe Edwards,female,MI,62,149.8,61,28.3,9.35,8.89,0.459999999999999,novodra,36,37,no reaction
+306,Addolorata Lombardi,female,NY,63,189,65,31.4,7.75,7.33,0.42,novodra,49,46,no reaction
+307,Mijndert Ouwendijk,male,NE,33,124.1,67,19.4,7.81,7.5,0.31,auralin,30,39,no reaction
+308,Mathea Lillebø,female,MS,97,112.4,65,18.7,9.04,8.67,0.369999999999999,auralin,23,36,no reaction
+309,Daud Batukayev,male,NY,42,178.9,73,23.6,7.98,7.51,0.470000000000001,novodra,37,30,no reaction
+310,Valur Bjarkason,male,AL,92,130.7,68,19.9,9.71,9.41,0.300000000000001,novodra,31,36,no reaction
+311,Hugo Collins,male,KS,94,193.6,69,28.6,8,7.53,0.47,novodra,53,55,no reaction
+314,Mgbankwo Afamefuna,female,AL,41,188.5,67,29.5,7.55,7.18,0.37,novodra,36,37,no reaction
+315,Renzo Lucchese,male,NJ,56,212.1,69,31.3,7.54,7.17,0.37,auralin,53,64,no reaction
+316,Brancaleone Russo,male,TX,28,211.9,74,27.2,8.61,8.18,0.43,auralin,53,60,no reaction
+317,Chân Bùi,female,MA,93,162.1,61,30.6,7.53,7.18,0.350000000000001,auralin,31,42,no reaction
+319,Benoît Bonami,male,NY,50,162.8,70,23.4,9.82,9.4,0.42,novodra,44,43,no reaction
+321,Noriyuki Sakai,male,WI,91,150.3,70,21.6,7.58,7.16,0.42,novodra,32,31,no reaction
+322,Dalmacia Madrid,female,LA,66,118.4,68,18,7.67,7.21,0.46,novodra,26,23,no reaction
+325,Kong Lei,male,DC,88,165.2,72,22.4,7.58,7.15,0.43,novodra,32,30,no reaction
+327,Suoma Koivunen,female,NY,98,114,62,20.8,7.59,7.13,0.46,novodra,26,25,no reaction
+329,Anja Hueber,female,MN,38,151.8,65,25.3,8.82,8.36,0.460000000000001,novodra,31,32,no reaction
+330,Csilla Herczegh,female,FL,85,172.7,66,27.9,7.71,7.27,0.44,novodra,43,46,no reaction
+332,Leon Scholz,male,CA,36,150.9,70,21.6,7.72,7.29,0.43,novodra,38,32,injection site discomfort
+334,Jad Allah Gaber,male,IN,99,174.2,69,25.7,7.97,7.52,0.45,novodra,38,41,no reaction
+335,Eugene Mironov,male,IL,63,195.8,65,32.6,7.81,7.48,0.329999999999999,auralin,42,49,no reaction
+336,Lixue Hsueh,female,IN,100,102.7,59,20.7,9.21,8.8,0.41,novodra,22,23,injection site discomfort
+338,León Reynoso,male,ID,94,209.4,65,34.8,7.59,7.06,0.53,novodra,38,40,no reaction
+339,Lóa Hrafnsdóttir,female,LA,100,114.1,67,17.9,7.6,7.09,0.51,auralin,22,31,no reaction
+341,Minea Lindgren,female,CA,86,176.9,64,30.4,9.45,8.94,0.51,auralin,38,45,no reaction
+343,Mathilde Nørgaard,female,CT,41,127.2,61,24,8.5,8.1,0.4,novodra,27,28,no reaction
+344,Emy Markus,female,CT,27,140.6,65,23.4,7.53,7.14,0.390000000000001,novodra,29,24,no reaction
+345,Sophia Haugen,female,GA,86,181.1,63,32.1,7.65,7.27,0.380000000000001,auralin,37,42,no reaction
+346,Asuna Morita,female,IN,56,134.2,61,25.4,7.58,7.25,0.33,novodra,35,39,no reaction
+347,Helen Luwam,female,NY,79,166.3,60,32.5,7.66,7.19,0.47,auralin,32,42,no reaction
+349,Saber Ménard,male,WI,90,197.1,69,29.1,8.08,7.7,0.38,novodra,54,54,no reaction
+350,Kristoffer Martinsen,male,WA,61,161.5,73,21.3,9.18,8.64,0.539999999999999,auralin,29,37,no reaction
+351,Diệt Bùi,male,TX,89,119,65,19.8,9.11,8.76,0.35,novodra,30,32,no reaction
+352,Nile Mehari,female,TN,70,197.6,65,32.9,9.25,8.79,0.460000000000001,auralin,40,53,no reaction
+354,Ole Petersen,male,GA,94,136.8,69,20.2,7.95,7.55,0.4,novodra,29,32,hypoglycemia
+356,Chiho Higa,female,RI,90,182.6,59,36.9,7.71,7.3,0.41,novodra,46,46,no reaction
+357,Sinead Reilly,female,LA,102,148.3,64,25.5,7.76,7.39,0.37,auralin,27,39,no reaction
+358,Chiemela Tobeolisa,female,OH,60,187.9,69,27.7,7.59,7.17,0.42,novodra,43,47,no reaction
+359,Amalie Christensen,female,CT,84,160.8,63,28.5,7.88,7.55,0.33,auralin,38,45,no reaction
+360,Merci Leroux,female,TX,70,132.2,65,22,8.98,8.64,0.34,auralin,27,33,hypoglycemia
+361,Kerman Dandonneau,male,GA,27,165.9,71,23.1,7.82,7.28,0.54,auralin,41,50,no reaction
+362,Hans Peter Radislav,male,TX,52,169,70,24.2,7.6,7.2,0.399999999999999,auralin,42,53,no reaction
+363,Luboš Pecha,male,VA,90,132.2,69,19.5,7.79,7.45,0.34,novodra,30,27,no reaction
+364,Elisabetta Lorenzo,female,CA,98,124.7,61,23.6,7.78,7.42,0.36,novodra,28,24,no reaction
+365,Chukwumoge Ogochukwu,female,CA,65,212.3,75,26.5,7.95,7.56,0.390000000000001,novodra,41,39,no reaction
+366,Robert Wagner,male,VA,100,200,67,31.3,9.84,9.52,0.32,auralin,43,49,no reaction
+367,Erick Pinto,male,SD,80,183.5,68,27.9,7.88,7.49,0.39,auralin,44,54,no reaction
+370,Farizah Sleiman,female,CA,82,190.5,62,34.8,7.8,7.4,0.399999999999999,novodra,50,50,no reaction
+371,Olof Holm,male,MA,26,214.1,70,30.7,7.85,7.43,0.42,auralin,39,52,no reaction
+373,Miłosław Wiśniewski,male,IL,46,149.2,68,22.7,7.51,7.08,0.43,novodra,34,33,injection site discomfort
+374,Johana Hrdá,female,AR,73,216.9,66,35,7.79,7.49,0.3,auralin,54,54,no reaction
+376,Sofia Hermansen,female,LA,69,186.8,65,31.1,8.9,8.57,0.33,novodra,34,34,injection site discomfort
+377,Ivona Jakšić,female,AR,90,200.8,62,36.7,7.98,7.54,0.44,novodra,41,41,no reaction
+378,Cumelén Miramontes,female,IL,90,130,66,21,7.71,7.33,0.38,auralin,24,32,no reaction
+379,Furuta Osman,female,TN,92,138.8,63,24.6,7.52,7.18,0.34,auralin,30,41,no reaction
+380,Rovzan Kishiev,female,OK,43,136,63,24.1,7.75,7.41,0.34,auralin,32,37,no reaction
+384,Torben Mortensen,male,ID,82,168.7,69,24.9,7.8,7.4,0.399999999999999,novodra,44,40,no reaction
+387,Sargent Flamand,male,CA,60,207.7,65,34.6,7.92,7.49,0.43,novodra,47,39,no reaction
+388,Vallie Prince,female,FL,28,152.7,67,23.9,7.64,7.28,0.359999999999999,auralin,31,38,no reaction
+389,Szilveszter Totth,male,LA,35,145.2,71,20.2,7.7,7.38,0.32,auralin,35,39,no reaction
+391,Hideki Haraguchi,male,TX,29,181.3,67,28.4,7.59,7.05,0.54,novodra,37,35,no reaction
+392,Daimy Tromp,male,FL,35,198,75,24.7,9.41,8.94,0.470000000000001,novodra,40,45,no reaction
+394,Steven Roy,male,VA,50,162.4,72,22,7.87,7.43,0.44,novodra,41,43,headache
+395,Anja Mueller,female,TX,83,182.2,61,34.4,7.58,7.29,0.29,auralin,43,56,no reaction
+396,Krisztián Bakos,male,NC,50,231.9,74,29.8,7.75,7.29,0.46,novodra,60,60,no reaction
+399,Ilija Horvat,male,GA,85,193.8,72,26.3,7.77,7.38,0.39,auralin,42,50,no reaction
+400,Eric Ek,male,WA,82,212.1,71,29.6,7.92,7.47,0.45,novodra,51,47,no reaction
+403,Manouck Wubbels,female,MS,61,201.5,65,33.5,7.66,7.4,0.26,auralin,55,62,throat irritation
+404,Robert Maslov,male,RI,93,219.1,65,36.5,7.65,7.35,0.300000000000001,auralin,55,68,no reaction
+405,Aaliyah Rice,female,TX,89,123,65,20.5,7.64,7.33,0.31,novodra,31,31,no reaction
+406,Marcel Peters,male,OR,100,183.5,69,27.1,9.56,9.19,0.370000000000001,auralin,48,60,no reaction
+408,Tegan Johnson,female,OK,98,156.6,65,26.1,7.79,7.43,0.36,novodra,34,34,headache
+409,Giovana Rocha,female,MI,87,113.1,67,17.7,7.87,7.38,0.49,novodra,23,21,no reaction
+412,Štefanija Novosel,female,NY,80,154.9,61,29.3,7.64,7.17,0.47,auralin,37,42,no reaction
+413,Finlay Sheppard,male,OH,77,161.3,70,23.1,7.51,7.17,0.34,novodra,31,30,no reaction
+414,Kai Cunha,male,MI,36,163.5,74,21,7.81,7.42,0.39,novodra,37,36,no reaction
+417,Dani Antoun,male,NY,97,138.6,70,19.9,7.73,7.34,0.390000000000001,auralin,36,44,no reaction
+419,Mahmud Kadyrov,male,ND,45,215.2,79,24.2,7.53,7.11,0.42,novodra,44,43,no reaction
+420,Maret Sultygov,female,IN,56,126.1,63,22.3,7.67,7.3,0.37,novodra,26,23,no reaction
+421,Adlan Shishani,male,NY,85,200.9,69,29.7,7.84,7.37,0.47,novodra,43,40,no reaction
+422,Armina Sauvé,female,AR,97,165,61,31.2,7.86,7.4,0.46,auralin,36,46,no reaction
+424,Simone Baumgaertner,female,CO,94,125.2,59,25.3,7.74,7.3,0.44,auralin,27,37,no reaction
+426,Taylah Mobourne,female,NJ,64,188.5,67,29.5,7.9,7.51,0.390000000000001,auralin,41,50,no reaction
+430,Kristiina Hyypiä,female,MN,103,152.1,65,25.3,7.87,7.49,0.38,novodra,36,38,no reaction
+431,Timothy Cotton,male,ND,30,135.7,68,20.6,7.92,7.52,0.4,novodra,26,25,no reaction
+432,Manuela Cindrić,female,CA,83,219.9,64,37.7,8.07,7.76,0.310000000000001,auralin,55,66,no reaction
+433,Karen Jakobsen,female,TX,63,185.2,67,29,7.59,7.25,0.34,auralin,34,42,no reaction
+434,Leo Vieira,male,PA,51,154.4,71,21.5,7.74,7.36,0.38,novodra,30,33,no reaction
+435,Bao She,female,CA,95,193.8,63,34.3,9.09,8.62,0.470000000000001,novodra,48,45,no reaction
+437,Sun Ko,male,VA,56,154.4,72,20.9,7.59,7.23,0.359999999999999,auralin,33,39,no reaction
+438,Alwin Svensson,male,WI,101,137.7,63,24.4,7.78,7.34,0.44,auralin,36,39,no reaction
+440,Hiromu Horikawa,male,IA,44,242,70,34.7,7.77,7.28,0.489999999999999,novodra,47,46,no reaction
+441,David Villadsen,male,MO,101,137.3,68,20.9,7.86,7.4,0.46,auralin,26,39,no reaction
+443,Ananías Enríquez,male,NY,66,169,72,22.9,7.58,7.07,0.51,novodra,44,45,no reaction
+444,Kajsa Eidem,female,FL,61,191,60,37.3,7.77,7.34,0.43,novodra,41,38,no reaction
+445,Angelico Marchesi,male,CA,80,211.6,69,31.2,7.62,7.18,0.44,novodra,58,58,no reaction
+446,Maximus Henzen,male,CA,101,180.8,72,24.5,7.79,7.34,0.45,auralin,49,55,no reaction
+447,Eemil Laine,male,MS,96,167.2,72,22.7,7.89,7.53,0.359999999999999,novodra,30,29,no reaction
+449,Ivan Fomin,male,OH,95,139.9,65,23.3,9.12,8.73,0.389999999999999,auralin,25,32,no reaction
+450,Bjørnar Nilsen,male,PA,65,152.5,68,23.2,7.99,7.7,0.29,novodra,36,33,no reaction
+451,Clinton Miller,male,NY,40,195.4,74,25.1,7.79,7.4,0.39,auralin,42,51,throat irritation
+452,Jia Li Teng,female,CA,97,202.2,66,32.6,7.66,7.32,0.34,auralin,48,54,nausea
+454,Wu Sung,male,TX,32,181.3,74,23.3,7.61,7.12,0.49,novodra,47,48,no reaction
+457,Zikoranaudodimma Chinedum,male,VA,90,150.5,67,23.6,8.19,7.83,0.359999999999999,auralin,41,51,no reaction
+458,Mevla Grabljevec,female,TX,41,215.8,66,34.8,7.72,7.44,0.279999999999999,novodra,51,55,no reaction
+459,Sousuke Nakahara,male,NV,96,134.2,70,19.3,7.91,7.49,0.42,novodra,37,35,no reaction
+460,Idalia Moore,female,CA,32,102.1,61,19.3,8.34,7.9,0.44,auralin,25,31,hypoglycemia
+461,Arne Jørgensen,male,CA,27,163.5,65,27.2,9.65,9.31,0.34,auralin,32,43,no reaction
+462,Cannan Cabrera,male,NY,45,209.7,71,29.2,7.94,7.58,0.36,novodra,40,31,no reaction
+463,Guðni Heimisson,male,CA,42,154.9,71,21.6,7.64,7.24,0.399999999999999,novodra,40,36,no reaction
+464,Bouke Glaser,female,MO,29,142.1,66,22.9,7.72,7.34,0.38,novodra,26,30,no reaction
+465,Meaza Brhane,female,AL,34,161.3,69,23.8,7.7,7.36,0.34,novodra,37,41,no reaction
+466,Gabryŝ Tomaszewski,male,TX,27,160.8,67,25.2,7.87,7.47,0.4,auralin,29,37,no reaction
+468,Jožka Resanovič,female,CA,66,122.1,63,21.6,7.56,7.22,0.34,auralin,22,30,no reaction
+469,Tosh Jensen,male,MO,56,194.7,68,29.6,7.93,7.69,0.239999999999999,novodra,51,48,no reaction
+470,Harley Tucker,male,NC,60,220.4,66,35.6,7.97,7.64,0.33,auralin,47,57,no reaction
+471,Muhammad Holden,male,FL,56,159.5,66,25.7,7.55,7.09,0.46,auralin,29,37,no reaction
+472,Nadwah Naifeh,female,OR,69,192.7,66,31.1,7.97,7.52,0.45,auralin,44,53,no reaction
+473,Julia Werner,female,MS,87,155.3,61,29.3,7.58,7.24,0.34,auralin,35,40,no reaction
+474,Kate Wilkinson,female,MA,27,175.3,65,29.2,7.72,7.2,0.52,auralin,36,39,no reaction
+476,Malik Vaneker,male,CA,72,214.4,67,33.6,7.55,7.12,0.43,auralin,44,54,no reaction
+477,Berta Napolitani,female,PA,67,153.3,63,27.2,7.68,7.21,0.47,novodra,42,44,injection site discomfort
+478,Juliusz Majewski,male,SC,59,212.1,69,31.3,7.78,7.31,0.470000000000001,novodra,41,39,no reaction
+479,Edelma Villalpando,female,CA,48,109.6,63,19.4,7.99,7.56,0.430000000000001,novodra,24,26,no reaction
+481,Nasser Mansour,male,TX,87,183.5,66,29.6,7.51,7.06,0.45,novodra,33,31,no reaction
+482,Michael Kristensen,male,OK,95,154.7,65,25.7,8.51,8.08,0.43,novodra,40,39,no reaction
+484,Angel Grant,female,TN,38,123.9,61,23.4,7.93,7.47,0.46,auralin,31,37,no reaction
+485,Placido Udinesi,male,NC,91,175.8,65,29.3,7.91,7.49,0.42,novodra,38,41,no reaction
+486,Trifon Izmailov,male,FL,53,255.9,74,32.9,7.68,7.28,0.399999999999999,auralin,58,63,no reaction
+487,Samuel Blix,male,TX,42,211.4,74,27.1,7.97,7.56,0.41,auralin,48,55,no reaction
+489,Mika Martinsson,male,FL,56,165,67,25.8,7.5,7.17,0.33,auralin,34,43,no reaction
+490,Jasmine Sykes,female,CA,37,187.2,63,33.2,7.56,7.18,0.38,novodra,42,44,hypoglycemia
+491,Jackson Addison,male,NY,72,192.7,69,28.5,7.99,7.51,0.48,novodra,42,42,no reaction
+492,Vanessa Ferguson,female,TX,75,149.8,67,23.5,7.97,7.58,0.39,auralin,39,50,no reaction
+495,Sirkka Piirainen,female,MI,84,126.3,67,19.8,8.9,8.59,0.310000000000001,novodra,26,24,no reaction
+497,Alexander Hueber,male,CA,83,194,72,26.3,7.71,7.35,0.36,auralin,35,38,no reaction
+499,Mustafa Lindström,male,ME,66,181.1,72,24.6,7.92,7.6,0.32,novodra,35,33,no reaction
+500,Ruman Bisliev,male,AZ,77,239.6,70,34.4,7.72,7.39,0.33,auralin,46,53,no reaction
+502,Chidalu Onyekaozulu,female,WA,74,176.9,67,27.7,7.54,7.27,0.27,novodra,42,41,no reaction
