@@ -15,7 +15,7 @@ The focus is on **data engineering** (cleaning, merging, structuring) and **anal
 - NumPy  
 - Matplotlib / Seaborn  
 - Jupyter Notebook  
-
+- Power BI
 ---
 
 ## 📂 Repository Structure
@@ -29,7 +29,7 @@ The focus is on **data engineering** (cleaning, merging, structuring) and **anal
 - **notebooks/**  
   - `data_cleaning.ipynb` → Cleaning and merging workflow  
   - `EDA_Clinical_Trial.ipynb` → Exploratory analysis and visualizations  
-
+  
 ---
 
 ## ⚙️ Workflow
@@ -46,6 +46,10 @@ The focus is on **data engineering** (cleaning, merging, structuring) and **anal
    - Generate descriptive statistics  
    - Visualize treatment outcomes and adverse reaction trends  
    - Identify demographic patterns (age, BMI, etc.)  
+4. **Power BI Dashboard**
+   - Power BI dashboard for Aurallin and Novodra clinical trial data.  
+   - Provides clear visualization of trial progress and outcomes.  
+   - Designed for professional reporting and easy interpretation.
 
 ---
 
